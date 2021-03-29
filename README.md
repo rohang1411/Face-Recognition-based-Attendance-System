@@ -6,7 +6,7 @@ Automatic export of attendance reports in Excel format and e-mail reports genera
 
 ## LIBRARIES REQUIRED
 
-## CLIENT
+### CLIENT
 1. opencv
 2. imagezmq
 3. argparse
@@ -14,7 +14,7 @@ Automatic export of attendance reports in Excel format and e-mail reports genera
 5. socket
 6. time
 
-## SERVER
+### SERVER
 1. dlib
 2. opencv
 3. face_recognition
